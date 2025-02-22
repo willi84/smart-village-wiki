@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@docusaurus/preset-classic": "^3.7.0"
+  }
+}
